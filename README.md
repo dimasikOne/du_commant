@@ -1,4 +1,4 @@
-# du_commant
+# du_command
 Сделать аналог команды du (как в Linux) на C/C++
 Пример:
 `/usr/bin/du -s /private/var/mobile/`
