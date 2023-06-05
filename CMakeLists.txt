@@ -7,5 +7,5 @@ add_executable(du
         main.cpp
         ArgumentParser.cpp
         ArgumentParser.h
-        PathSizeCounter.cpp
+        SizeCounter.cpp
         SizeCounter.h)
